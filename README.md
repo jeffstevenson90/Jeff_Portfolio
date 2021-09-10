@@ -15,6 +15,7 @@ Data Analyst Portfolio
 # Project 2: xTeam Call Reduction
 * Supported a xTeam collaboration project to identify solutions for reducing non-value calls to key partners.
 * Worked with teams including Product, Dev, Operational leaders and other key stakeholders to identify non-value work.
+* Researched demograpics of over 1M items to find which ones were more (or less) likely to be resolved regardless if we made a call or not.
 * Provided analysis and reccomendations on which areas we could target, as well as testing support and self-service dashboards for monitoring.
 * The change resulted in enchaned client relations, as well as $250K per year efficiency gain for our operations department.
 
