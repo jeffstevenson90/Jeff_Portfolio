@@ -1,6 +1,6 @@
 # Jeff Stevenson Portfolio
 Data Analyst Portfolio
-
+<br/>
 
 # Project 1: Department Goals
 * Created goals for our operations department to establish performance management and assist with capacity planning.
