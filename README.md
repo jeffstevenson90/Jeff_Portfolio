@@ -12,6 +12,6 @@ Data Analyst Portfolio
 # Project 2: Tableau Reports
 * Examples of reports created in Tableau are below.
 
-![](/images/Program%20Wide.png)
+![](images/Program%20Wide.png)
 
-![](/images/Time%20Comparison.png)
+![](images/Time%20Comparison.png)
