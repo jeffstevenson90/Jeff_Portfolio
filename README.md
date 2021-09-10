@@ -17,7 +17,7 @@ Data Analyst Portfolio
 * Worked with teams including Product, Dev, Operational leaders and other key stakeholders to identify non-value work.
 * Researched demographics of over 1M items to find which ones were more (or less) likely to be resolved regardless of if we made a call or not.
 * Provided analysis and recommendations on which areas we could target, as well as testing support and self-service dashboards for monitoring changes.
-* The change resulted in enhanced client relations, as well as a $250K per year efficiency gain for our operations department.
+* The change resulted in enhanced client relations, as well as a $150K per year efficiency gain for our operations department.
 
 ![](images/Call%20tracking.png)
 <br/>
