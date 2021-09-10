@@ -9,13 +9,11 @@ Data Analyst Portfolio
 * Developed monthly and quarterly reporting to assist supervisors with performance management and ensure company targets were being met.
 * Provided recommendations based on performance trends and business need.  
 
-![](images/Goal%20reccomendation.png)
+![](images/goal%20rec%202.png)
 
 # Project 2: Tableau Reports
 * Examples of reports created in Tableau are below. *actual data has been alerted or standarized*
 
 ![](images/Program%20Wide.png)
-
-![](images/Time%20Comparison.png)
 
 ![](images/Message%20Summary.png)
