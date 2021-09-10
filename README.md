@@ -2,7 +2,7 @@
 Data Analyst Portfolio
 
 
-# Project 1: Department Goals - Project Overview
+# Project 1: Department Goals
 * Created goals for our operations department to establish performance management and assist with capacity planning.
 * Combined quarterly projections with historical performance to help inform responsible targets for 500+ associates.
 * Created performance buckets and defintions based on production that tied directly to compensation and quarterly reviews.
