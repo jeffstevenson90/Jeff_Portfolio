@@ -19,6 +19,7 @@ Data Analyst Portfolio
 * Provided analysis and reccomendations on which areas we could target, as well as testing support and self-service dashboards for monitoring.
 * The change resulted in enchaned client relations, as well as $250K per year efficiency gain for our operations department.
 
+![](images/Call%20tracking.png)
 <br/>
 
 # Project 3: Tableau Reports
