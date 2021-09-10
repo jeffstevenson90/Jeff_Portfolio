@@ -10,7 +10,7 @@ Data Analyst Portfolio
 
 
 # Project 2: Tableau Reports
-* Screenshots of reports created are below.
+* Examples of reports created in Tableau are below.
 
 ![](/images/Program%20Wide.png)
 
