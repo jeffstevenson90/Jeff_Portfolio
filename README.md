@@ -1,7 +1,7 @@
 # Jeff_Portfolio
 Data Analyst Portfolio
 
-
+<br/>
 # Project 1: Department Goals
 * Created goals for our operations department to establish performance management and assist with capacity planning.
 * Combined quarterly projections with historical performance to help inform responsible targets for 500+ associates.
@@ -16,5 +16,6 @@ Data Analyst Portfolio
 * Examples of reports created in Tableau are below. *actual data has been alerted or standarized*
 
 ![](images/Program%20Wide.png)
-
+<br/>
+<br/>
 ![](images/Message%20Summary.png)
