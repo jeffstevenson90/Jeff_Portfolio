@@ -26,6 +26,8 @@ Data Analyst Portfolio
 * Developed a daily forecast for projected work volume in Python to assist with capacity needs.
 * Used a test and train set for predictions, also applied proprocessing principles such as feature transformation, encoding, and esembling.
 * Model evaluation thus far: MAPE (9.3%) / Model Bias (32.3%)
+
+![](images/forecast.png)
 <br/>
 
 # Project 4: Tableau Reports
