@@ -13,4 +13,5 @@ Data Analyst Portfolio
 * Screenshots of reports created are below.
 
 ![](/images/Program%20Wide.png)
+
 ![](/images/Time%20Comparison.png)
