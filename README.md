@@ -24,7 +24,7 @@ Data Analyst Portfolio
 
 # Project 3: Tableau Reports
 * Examples of reports created in Tableau are below. 
-*(actual data has been altered or standarized)*
+*(data has been altered or standardized)*
 
 ![](images/Program%20Wide.png)
 <br/>
