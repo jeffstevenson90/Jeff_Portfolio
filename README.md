@@ -13,10 +13,11 @@ Data Analyst Portfolio
 <br/>
 <br/>
 # Project 2: Tableau Reports
-* Examples of reports created in Tableau are below. *actual data has been alerted or standarized*
+* Examples of reports created in Tableau are below. 
+* *actual data has been alerted or standarized*
 
 ![](images/Program%20Wide.png)
----------
+<br/>
 ![](images/Time%20comparison.png)
----------
+<br/>
 ![](images/Message%20Summary.png)
