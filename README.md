@@ -17,5 +17,6 @@ Data Analyst Portfolio
 
 ![](images/Program%20Wide.png)
 <br/>
+![](images/Time%20comparison.png)
 <br/>
 ![](images/Message%20Summary.png)
