@@ -8,7 +8,7 @@ Data Analyst Portfolio
 * Created performance buckets and defintions based on production that tied directly to compensation and quarterly reviews.
 * Developed monthly and quarterly reporting to assist supervisors with performance management and ensure company targets were being met.
 * Provided recommendations based on performance trends and business need.  
-<br/>
+
 ![](images/goal%20rec%202.png)
 <br/>
 
