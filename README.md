@@ -12,4 +12,4 @@ Data Analyst Portfolio
 # Project 2: Tableau Reports
 * Screenshots of reports created are below.
 
-![](/images/Program Wide.png)
+![](https://github.com/jeffstevenson90/Jeff_Portfolio/blob/main/images/Program%20Wide.png)
