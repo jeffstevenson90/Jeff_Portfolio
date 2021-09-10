@@ -10,8 +10,8 @@ Data Analyst Portfolio
 * Provided recommendations based on performance trends and business need.  
 
 ![](images/goal%20rec%202.png)
-
 <br/>
+
 # Project 2: xTeam Call Reduction
 * Supported a xTeam collaboration project to identify solutions for reducing non-value calls to key partners.
 * Worked with teams including Product, Dev, Operational leaders and other key stakeholders to identify non-value work.
