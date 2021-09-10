@@ -10,7 +10,8 @@ Data Analyst Portfolio
 * Provided recommendations based on performance trends and business need.  
 
 ![](images/goal%20rec%202.png)
-
+<br/>
+<br/>
 # Project 2: Tableau Reports
 * Examples of reports created in Tableau are below. *actual data has been alerted or standarized*
 
