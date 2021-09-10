@@ -24,7 +24,7 @@ Data Analyst Portfolio
 
 # [Project 3: Volume Forecasting](https://github.com/jeffstevenson90/kaggle/blob/main/cmm-tsf1.ipynb)
 * Developed a daily forecast for projected work volume in Python to assist with capacity needs.
-* Used a test and train set for predictions, also applied proprocessing principles such as feature transformation, encoding, and esembling.
+* Used a test and train set for predictions, also applied proprocessing principles such as feature transformation, encoding, ensembling and model selection.
 * Model evaluation thus far: MAPE (9.3%) / Model Bias (32.3%)
 
 ![](images/forecast.png)
