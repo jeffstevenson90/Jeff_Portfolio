@@ -1,7 +1,6 @@
 # Jeff Stevenson Portfolio
 Sr. Data Analyst Portfolio
 #
-#
 
 # Project 1: Department Goals
 * Created goals for our operations department to establish performance management and assist with capacity planning.
@@ -12,7 +11,6 @@ Sr. Data Analyst Portfolio
 
 ![](images/goal%20rec%202.png)
 # 
-#
 
 # Project 2: xTeam Call Reduction
 * Supported a xTeam collaboration project to identify solutions for reducing non-value calls to key partners.
@@ -22,7 +20,7 @@ Sr. Data Analyst Portfolio
 * The change resulted in enhanced client relations, as well as a $150K per year efficiency gain for our operations department.
 
 ![](images/Call%20tracking.png)
-<br/>
+#
 
 # [Project 3: Volume Forecasting](https://github.com/jeffstevenson90/kaggle/blob/main/cmm-tsf1.ipynb)
 * Developed a daily forecast for projected work volume in Python to assist with capacity needs.
@@ -30,16 +28,16 @@ Sr. Data Analyst Portfolio
 * Model evaluation thus far: MAPE (9.3%) / Model Bias (32.3%)
 
 ![](images/forecast.png)
-<br/>
+#
 
 # Project 4: Tableau Reports
 * Examples of reports created in Tableau are below. 
 *(data has been altered or standardized)*
 
 ![](images/Program%20Wide.png)
-<br/>
+#
 
 ![](images/Time%20comparison.png)
-<br/>
+#
 
 ![](images/Message%20Summary.png)
