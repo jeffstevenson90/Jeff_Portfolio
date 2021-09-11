@@ -1,6 +1,3 @@
-# Jeff Stevenson
-Sr. Data Analyst Portfolio
-<br/>
 <br/>
 
 # Project 1: Department Goals
