@@ -28,18 +28,18 @@ Sr. Data Analyst Portfolio
 * Model evaluation thus far: MAPE (9.3%) / Model Bias (32.3%)
 
 ![](images/forecast.png)
-#
+
 <br/><br/>
 # Project 4: Tableau Reports
 * Examples of reports created in Tableau are below. 
 *(data has been altered or standardized)*
 
 ![](images/Program%20Wide.png)
-#
+
 <br/><br/>
 
 ![](images/Time%20comparison.png)
-#
+
 <br/><br/>
 
 ![](images/Message%20Summary.png)
