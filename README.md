@@ -1,6 +1,5 @@
-# Jeff Stevenson Portfolio
+# Jeff Stevenson
 Sr. Data Analyst Portfolio
-<br/>
 <br/>
 <br/>
 
@@ -28,6 +27,7 @@ Sr. Data Analyst Portfolio
 ![](images/Call%20tracking.png)
 
 <br/>
+<br/>
 
 # [Project 3: Volume Forecasting](https://github.com/jeffstevenson90/kaggle/blob/main/cmm-tsf1.ipynb)
 * Developed a daily forecast for projected work volume in Python to assist with operational capacity needs.
@@ -37,6 +37,7 @@ Sr. Data Analyst Portfolio
 
 ![](images/forecast.png)
 
+<br/>
 <br/>
 
 # Project 4: Tableau Reports
