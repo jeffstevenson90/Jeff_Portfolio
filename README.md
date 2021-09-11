@@ -20,6 +20,7 @@
 * Provided analysis and recommendations on which areas we could target, as well as testing support and self-service dashboards for monitoring changes.
 * The change resulted in enhanced client relations, as well as a $150K per year efficiency gain for our operations department.
 <br/>
+<br/>
 
 ![](images/Call%20tracking.png)
 
@@ -30,6 +31,7 @@
 * Developed a daily forecast for projected work volume in Python to assist with operational capacity needs.
 * Used a test and train set for predictions, also applied proprocessing principles such as feature transformation, encoding, ensembling and model selection.
 * Model evaluation thus far: MAPE (9.3%) / Model Bias (32.3%)
+<br/>
 <br/>
 
 ![](images/forecast.png)
