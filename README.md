@@ -43,6 +43,7 @@ Sr. Data Analyst Portfolio
 # Project 4: Tableau Reports
 * Examples of reports created in Tableau are below. 
 *(data has been altered or standardized)*
+<br/>
 
 ![](images/Program%20Wide.png)
 
