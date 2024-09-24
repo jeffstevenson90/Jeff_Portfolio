@@ -1,6 +1,6 @@
 <br/>
 
-## My Leadership Philosophy & Focus
+## Leadership Philosophy & Approach
 As a leader in Data Analytics & Business Intelligence, I focus heavily on empowering teams, leveraging data to drive decisions, and fostering cross-functional collaboration to achieve strategic business goals.
 
 1. Empowering Teams :
@@ -66,6 +66,10 @@ While focused on delivering measurable outcomes, I lead with a people-first appr
 ### Example 4: Tableau Report Developments
 * Examples of reports created in Tableau are below. 
 *(data has been altered or standardized)*
+<br/>
+
+![](images/Office%20Insights.png)
+
 <br/>
 
 ![](images/Program%20Wide.png)
