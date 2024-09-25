@@ -1,6 +1,6 @@
 <br/>
 
-## Leadership Philosophy & Approach
+## Team Building Philosophy & Approach
 As a leader in Data Analytics & Business Intelligence, I focus heavily on empowering teams, leveraging data to drive decisions, and fostering cross-functional collaboration to achieve strategic business goals.
 
 1. Empowering Teams :
